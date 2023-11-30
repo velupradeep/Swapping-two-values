@@ -18,14 +18,14 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-#Program to swap two values.
+```#Program to swap two values.
 #Developed by:PRADEEP V
 #RegisterNumber:23013543
 a=eval(input())
 b=eval(input())
 a,b=b,a
 print("Swapped values are:",a,b)
-
+```
 ## output: 
 ![py 01](https://github.com/velupradeep/Swapping-two-values/assets/150329341/5a2fba3a-9f37-4007-93f6-880bc8031069)
 
