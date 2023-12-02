@@ -27,7 +27,8 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## output: 
-![py 01](https://github.com/velupradeep/Swapping-two-values/assets/150329341/5a2fba3a-9f37-4007-93f6-880bc8031069)
+![sqrt of two numbers](https://github.com/velupradeep/Swapping-two-values/assets/150329341/cca77928-7a83-40e2-bb84-d367e247675f)
+
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
