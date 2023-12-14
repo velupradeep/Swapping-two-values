@@ -18,7 +18,8 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
-```#Program to swap two values.
+```
+#Program to swap two values.
 #Developed by:PRADEEP V
 #RegisterNumber:23013543
 a=eval(input())
@@ -27,7 +28,8 @@ a,b=b,a
 print("Swapped values are:",a,b)
 ```
 ## output: 
-![sqrt of two numbers](https://github.com/velupradeep/Swapping-two-values/assets/150329341/cca77928-7a83-40e2-bb84-d367e247675f)
+![swapping of two variables](https://github.com/velupradeep/Swapping-two-values/assets/150329341/78c6d58f-4be9-417e-997b-67f7668a290d)
+
 
 
 ## RESULT:
